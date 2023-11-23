@@ -1,5 +1,8 @@
 ## YouTube Downloader Tool
 
+<img align="left" width="100%" src="https://img.itch.zone/aW1hZ2UvMTMyNzA1LzYwOTIyMy5naWY=/original/aiPnrv.gif">
+
+
 Summary:
 A simple and efficient YouTube video downloader tool built with Python. It provides a user-friendly interface and numerous features to meet user needs.
 
