@@ -47,7 +47,7 @@ Tkinter library
 
 Installation:
 
-##pip install pytube
+## pip install pytube
 
 Documentation:
 For more details and how to use the tool, refer to the program documentation.
