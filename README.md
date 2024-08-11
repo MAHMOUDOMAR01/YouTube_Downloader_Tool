@@ -2,52 +2,50 @@
 
 <img align="left" width="100%" src="https://img.itch.zone/aW1hZ2UvMTMyNzA1LzYwOTIyMy5naWY=/original/aiPnrv.gif">
 
-
-Summary:
+### Summary
 A simple and efficient YouTube video downloader tool built with Python. It provides a user-friendly interface and numerous features to meet user needs.
 
-Features:
+### Features
 
-1-Video and Playlist Download:
+1. **Video and Playlist Download:**
+   - Ability to download individual videos and playlists from YouTube.
 
-2-Ability to download individual videos and playlists from YouTube.
-Quality Selection:
+2. **Quality Selection:**
+   - Support for choosing the desired video quality (Highest, Lowest, 1080p, 720p, etc.).
 
-3-Support for choosing the desired video quality (Highest, Lowest, 1080p, 720p, ...).
-Multiple Formats:
+3. **Multiple Formats:**
+   - Support for downloading audio only or video with audio.
 
-4-Support for downloading audio only or video with audio.
-Simple Graphical Interface:
+4. **Simple Graphical Interface:**
+   - Addition of a user-friendly graphical interface to enhance user experience.
 
-5-Addition of a user-friendly graphical interface to enhance user experience.
-Download Process Enhancements:
+5. **Download Process Enhancements:**
+   - Utilization of advanced Python libraries to speed up the download process.
 
-6-Utilization of advanced Python libraries to speed up the download process.
-Error Handling:
+6. **Error Handling:**
+   - Effective error handling and clear error messages for the user.
 
-7-Effective error handling and clear error messages for the user.
-Integration with Tkinter:
+7. **Integration with Tkinter:**
+   - Use of Tkinter for adding an easy-to-use graphical interface.
 
-8-Use of Tkinter for adding an easy-to-use graphical interface.
-Future Improvements:
+8. **Future Improvements:**
+   - Easy expansion and addition of new features in the future.
 
-9-Easy expansion and addition of new features in the future.
+### Usage
 
-Usage:
+1. Run the program.
+2. Enter the URL of the video or playlist.
+3. Choose the desired quality and additional options.
+4. Click the "Download" button to initiate the download process.
 
-Run the program.
-Enter the URL of the video or playlist.
-Choose the desired quality and additional options.
-Click the "Download" button to initiate the download process.
-Requirements:
+### Requirements
 
-Python 3.x
-Pytube library
-Tkinter library
+- Python 3.x
+- Pytube library
+- Tkinter library
 
-Installation:
+### Installation
 
-## pip install pytube
-
-Documentation:
-For more details and how to use the tool, refer to the program documentation.
+To install the required library, run:
+```bash
+pip install pytube
