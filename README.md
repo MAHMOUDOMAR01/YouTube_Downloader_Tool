@@ -49,3 +49,5 @@ A simple and efficient YouTube video downloader tool built with Python. It provi
 To install the required library, run:
 ```bash
 pip install pytube
+pip install tqdm
+
